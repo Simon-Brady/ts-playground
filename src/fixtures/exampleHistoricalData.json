@@ -1,0 +1,34 @@
+{
+	"2018-01-02": {
+		"WMT": {
+			"ticker": "WMT",
+			"name": "Walmart",
+			"close": "98.59",
+			"open": "99.30",
+			"day_range": "1.27"
+		},
+		"TGT": {
+			"ticker": "TGT",
+			"name": "Target",
+			"close": "67.63",
+			"open": "65.95",
+			"day_range": "2.18"
+		}
+	},
+	"2018-01-03": {
+		"WMT": {
+			"ticker": "WMT",
+			"name": "Walmart",
+			"close": "99.45",
+			"open": "98.85",
+			"day_range": "1.23"
+		},
+		"TGT": {
+			"ticker": "TGT",
+			"name": "Target",
+			"close": "67.17",
+			"open": "68.63",
+			"day_range": "1.74"
+		}
+	}
+}
