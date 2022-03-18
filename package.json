@@ -25,7 +25,8 @@
     "react-flatpickr": "^3.10.7",
     "react-hot-loader": "^4.13.0",
     "sass-loader": "^12.6.0",
-    "style-loader": "^3.3.1"
+    "style-loader": "^3.3.1",
+    "vercel": "^24.0.0"
   },
   "devDependencies": {
     "@babel/core": "^7.17.5",
