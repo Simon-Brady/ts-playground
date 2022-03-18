@@ -10,6 +10,7 @@ const StyledCheckbox = styled.div`
     }
   }
 `;
+
 type CheckboxT = {
    onChangeMethod: any, 
    label: string, 
