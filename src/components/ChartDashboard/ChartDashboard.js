@@ -43,7 +43,7 @@ const ChartDashboard = () => {
           )}
         </>
       )}
-      <HeatmapChart />
+      {/* <HeatmapChart /> */}
     </StyledDashboardContainer>
   );
 };
