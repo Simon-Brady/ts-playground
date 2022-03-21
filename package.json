@@ -11,7 +11,9 @@
     "build-dev": "webpack --mode development",
     "build-prod": "webpack --mode production",
     "start": "webpack serve --hot --mode development",
-    "test": "jest"
+    "test": "jest",
+    "storybook": "start-storybook -p 6006",
+    "build-storybook": "build-storybook"
   },
   "dependencies": {
     "@emotion/styled": "^11.8.1",
@@ -33,6 +35,12 @@
     "@babel/preset-env": "^7.16.11",
     "@babel/preset-react": "^7.16.7",
     "@hot-loader/react-dom": "^17.0.2+4.13.0",
+    "@storybook/addon-actions": "^6.4.19",
+    "@storybook/addon-essentials": "^6.4.19",
+    "@storybook/addon-interactions": "^6.4.19",
+    "@storybook/addon-links": "^6.4.19",
+    "@storybook/react": "^6.4.19",
+    "@storybook/testing-library": "^0.0.9",
     "@types/react": "^17.0.39",
     "@types/react-dom": "^17.0.11",
     "@types/react-flatpickr": "^3.8.6",
